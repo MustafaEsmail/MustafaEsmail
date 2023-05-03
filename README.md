@@ -18,7 +18,7 @@
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://github.com/MustafaEsmail/MustafaEsmail">
-    <img alt="Embedded System Software Engineer" src="https://img.shields.io/badge/Hospital%20Management%20System-2B9EB3?style=flat-square&logo=github&logoColor=white" />
+    <img alt="Embedded System Software Engineer" 
   </a>
   <a href="https://github.com/MustafaEsmail/MustafaEsmail">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -33,7 +33,7 @@
   <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-0081CB?style=flat-square&logo=code&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Ahmed+Tarek!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Mustafa+Esmail!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
 </p>
 
 
