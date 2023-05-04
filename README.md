@@ -4,6 +4,16 @@
 </p>
 <br/>
 <p align="center">
+  
+  
+  ---
+### :man_technologist: About Me :
+I am an Embedded SoftWare Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+- :telescope: I’m working as a Software Engineer .
+- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I solve problems on GeeksforGeeks & HackerRank , read & write tech articles and books .[![Goodreads Badge](https://img.shields.io/badge/-Goodreads-553b08?style=flat&logo=Goodreads&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Silaya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-samir-8b585b14a/)
+
   📫 Connect with me: 
   <a href="mustafaesmail2222@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
