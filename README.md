@@ -41,9 +41,10 @@ I am an Embedded SoftWare Developer <img src="https://media.giphy.com/media/WUlp
   <a href="https://leetcode.com/at744245/">
     
   </a>
- style=flat-square&logo=codeforces&logoColor=white" />
+   style=flat-square&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://github.com/MustafaEsmail/MustafaEsmail">
+  <a>
+  href="https://github.com/MustafaEsmail/MustafaEsmail">
     <img alt="Embedded System Software Engineer" 
   </a>
   <a href="https://github.com/MustafaEsmail/MustafaEsmail">
