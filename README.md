@@ -12,7 +12,7 @@ I am an Embedded SoftWare Developer <img src="https://media.giphy.com/media/WUlp
 - :telescope: I’m working as a Software Engineer .
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks & HackerRank , read & write tech articles and books .[![Goodreads Badge](https://img.shields.io/badge/-Goodreads-553b08?style=flat&logo=Goodreads&logoColor=white)](your-linkedin-url)
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Silaya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-esmail-b602011a2/)
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
