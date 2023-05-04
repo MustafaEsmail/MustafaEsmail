@@ -12,7 +12,7 @@ I am an Embedded SoftWare Developer <img src="https://media.giphy.com/media/WUlp
 - :telescope: I’m working as a Software Engineer .
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks & HackerRank , read & write tech articles and books .[![Goodreads Badge](https://img.shields.io/badge/-Goodreads-553b08?style=flat&logo=Goodreads&logoColor=white)](your-linkedin-url)
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Silaya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-samir-8b585b14a/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Silaya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-esmail-b602011a2/)
 
   📫 Connect with me: 
   <a href="mustafaesmail2222@gmail.com">
@@ -24,8 +24,7 @@ I am an Embedded SoftWare Developer <img src="https://media.giphy.com/media/WUlp
   <a href="https://leetcode.com/at744245/">
     
   </a>
-  <a href="https://codeforces.com/profile/midoxmax">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+ style=flat-square&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://github.com/MustafaEsmail/MustafaEsmail">
     <img alt="Embedded System Software Engineer" 
