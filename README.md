@@ -44,7 +44,7 @@ I am an Embedded SoftWare Developer <img src="https://media.giphy.com/media/WUlp
     
   </a>
   <a href="https://github.com/MustafaEsmail/MustafaEsmail">
-    <img alt="Embedded System Software Engineer" 
+    
   </a>
   <a href="https://github.com/MustafaEsmail/MustafaEsmail">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
